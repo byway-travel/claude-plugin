@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "byway": {
+      "type": "http",
+      "url": "https://mcp.byway.travel/publicapi/mcp/v1"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "byway-travel",
+  "displayName": "Byway Travel",
+  "version": "1.0.0",
+  "description": "Plan multi-stop European rail trips, including trips around fixed-date events, with train legs, stays and a total price.",
+  "author": {
+    "name": "Byway",
+    "url": "https://byway.travel"
+  },
+  "homepage": "https://byway.travel",
+  "license": "Apache-2.0",
+  "keywords": ["rail", "train", "europe", "itinerary", "eurostar", "events", "travel"],
+  "icon": "./assets/logo.png",
+  "supportUrl": "https://www.byway.travel/developers",
+  "privacyPolicyUrl": "https://www.byway.travel/legal/mcp-policies",
+  "termsOfServiceUrl": "https://www.byway.travel/legal/mcp-policies"
+}

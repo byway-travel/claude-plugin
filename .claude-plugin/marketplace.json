@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "byway",
+  "description": "Byway's plugins for Claude: plan European rail trips with Byway.",
+  "owner": {
+    "name": "Byway",
+    "url": "https://www.byway.travel"
+  },
+  "plugins": [
+    {
+      "name": "byway-travel",
+      "source": "./",
+      "description": "Plan multi-stop European rail trips, including trips around fixed-date events, with train legs, stays and a total price."
+    }
+  ]
+}
