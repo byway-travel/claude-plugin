@@ -11,6 +11,7 @@
   "license": "Apache-2.0",
   "keywords": ["rail", "train", "europe", "itinerary", "eurostar", "events", "travel"],
   "icon": "./assets/logo.png",
+  "documentationUrl": "https://www.byway.travel/developers",
   "supportUrl": "https://www.byway.travel/developers",
   "privacyPolicyUrl": "https://www.byway.travel/legal/mcp-policies",
   "termsOfServiceUrl": "https://www.byway.travel/legal/mcp-policies"
