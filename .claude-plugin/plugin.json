@@ -8,6 +8,7 @@
     "url": "https://www.byway.travel"
   },
   "homepage": "https://www.byway.travel",
+  "repository": "https://github.com/byway-travel/claude-plugin",
   "license": "Apache-2.0",
   "keywords": ["rail", "train", "europe", "itinerary", "eurostar", "events", "travel"],
   "icon": "./assets/logo.png",
