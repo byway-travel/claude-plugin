@@ -1,7 +1,7 @@
 {
   "name": "byway-travel",
   "displayName": "Byway Travel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plan multi-stop European rail trips, including trips around fixed-date events, with train legs, stays and a total price.",
   "author": {
     "name": "Byway",
